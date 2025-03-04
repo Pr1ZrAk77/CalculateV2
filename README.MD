@@ -149,5 +149,5 @@ cd CalculateV2
 2)Затем запускаем тестирование:
 
 ```bash
-go test ./internal/agent/agent_calculation_test.go
+go test ./internal/agent/agent_test.go
 ```
